@@ -22,7 +22,7 @@ Folder Structure
 └── README.md
 Local Setup Instructions
 1. Clone the backend repo:
-   git clone https://github.com/your-username/bad-posture-backend.git
+   git clone https://github.com/Biden254/bad-posture-backend.git
    cd bad-posture-backend
 
 2. Create and activate a virtual environment:
