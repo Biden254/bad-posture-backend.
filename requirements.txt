@@ -1,5 +1,6 @@
 flask
 flask-cors
 opencv-python
-mediapipe
 numpy
+git+https://github.com/google/mediapipe.git
+
