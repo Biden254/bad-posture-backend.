@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Logs and outputs
+*.log
+*.out
+*.bak
+*.swp
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Flask or Gunicorn runtime files
+instance/
+.env
